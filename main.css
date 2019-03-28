@@ -17,7 +17,8 @@ body{
     text-align: center;
     font-size: 25px;
     color:ghostwhite;
-    background: url('https://civileats.com/wp-content/uploads/2015/09/classroom_-Jirka_Matousek-e1442859209261.jpg');
+    background: url('https://civileats.com/wp-content/uploads/2015/09/classroom_-Jirka_Matousek-e1442859209261.jpg') no-repeat;
+    background-size: cover;
 }
 
 
